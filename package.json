@@ -1,0 +1,27 @@
+{
+  "name": "page-fetcher",
+  "version": "1.0.0",
+  "description": "downloading the source at the URL to the local path",
+  "main": "fetcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vlad-Lab319/page-fetcher.git"
+  },
+  "keywords": [
+    "LHL",
+    "page_fetcher",
+    "download_page"
+  ],
+  "author": "Vladimir Eremenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vlad-Lab319/page-fetcher/issues"
+  },
+  "homepage": "https://github.com/Vlad-Lab319/page-fetcher#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
